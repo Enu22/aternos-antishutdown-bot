@@ -1,0 +1,15 @@
+[Unit]
+Description=aternos antishutdown service
+After=network.target
+StartLimitIntervalSec=0
+
+[Service]
+Type=simple
+Restart=always
+RestartSec=1
+User=github
+WorkingDirectory=/home/github/antishutdown
+ExecStart=/usr/bin/env node /home/github/antishutdown/antishutdown.js
+
+[Install]
+WantedBy=multi-user.target

@@ -1,0 +1,13 @@
+{
+  "name": "antishutdown",
+  "version": "1.0.0",
+  "description": "",
+  "main": "antishutdown.js",
+  "scripts": {
+    "start": "node antishutdown.js"
+  },
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "mineflayer": "^3.2.0"
+  }
+}
