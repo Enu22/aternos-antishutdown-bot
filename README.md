@@ -1,5 +1,7 @@
 # aternos antishutdown bot
 
+**update 04/03/21**: guarenteeed to get you manually banned by a staff member of aternos before your sever ever shuts off 😂
+
 just host this on a free tier GCP instance
 
 ```
