@@ -1,6 +1,6 @@
 # aternos antishutdown bot
 
-# Buy me covfefe ❤️
+### Buy me covfefe ❤️
 ```
 BTC     bc1qjqzkrfupcrgtzpeu0pmut24vq8tfzs9rqe6458
 ETH     0x799b3b5520525CDd95d1D5C7Ba1a2Ee6037B1bFE
